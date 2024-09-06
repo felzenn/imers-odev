@@ -27,4 +27,6 @@ Se você é um desenvolvedor e quer dar uma força pra gente, fique à vontade! 
 
 ****
 
+**Lembrando que esse projeto foi criado a partir da IMERSÃO DEV ALURA!
+
 **#atletasbrasileiros #esporte #programação #webdev #brasil**
