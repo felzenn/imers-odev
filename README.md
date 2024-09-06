@@ -1,4 +1,4 @@
-### **Salve, futuros campeões! **
+### **Salve, futuros campeões!**
 
 **Preparados para conhecer a nossa galeria de atletas brasileiros mais queridos?** 🇧🇷
 
