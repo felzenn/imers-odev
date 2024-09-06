@@ -27,6 +27,6 @@ Se você é um desenvolvedor e quer dar uma força pra gente, fique à vontade! 
 
 ****
 
-**Lembrando que esse projeto foi criado a partir da IMERSÃO DEV ALURA!**
+**Lembrando que esse projeto foi criado a partir da IMERSÃO DEV ALURA com o GOOGLE GEMINI**
 
 **#atletasbrasileiros #esporte #programação #webdev #brasil**
